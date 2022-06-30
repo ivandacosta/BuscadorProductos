@@ -2,42 +2,42 @@ const productos = [
     {
         nombre: "aguila brownie",
         precio: 120,
-        img: "../img/aguilabrownie.jpg",
+        img: "./img/aguilabrownie.jpg",
     },
     {
         nombre: "aguila clasica",
         precio: 110,
-        img: "../img/aguilaclasica.jpg",
+        img: "./img/aguilaclasica.jpg",
     },
     {
         nombre: "bonobon",
         precio: 100,
-        img: "../img/bonobon.jpg",
+        img: "./img/bonobon.jpg",
     },
     {
         nombre: "block",
         precio: 150,
-        img: "../img/coflerblock.jpg",
+        img: "./img/coflerblock.jpg",
     },
     {
         nombre: "guaymallen",
         precio: 90,
-        img: "../img/guaymallenchocolate.jpg",
+        img: "./img/guaymallenchocolate.jpg",
     },
     {
-        nombre: "milka",
+        nombre: "milka mouse",
         precio: 115,
-        img: "../img/milkamouse.jpg",
+        img: "./img/milkamouse.jpg",
     },
     {
         nombre: "pepitos",
         precio: 125,
-        img: "../img/pepitos.jpg",
+        img: "./img/pepitos.jpg",
     },
     {
-        nombre: "milka oreo",
+        nombre: "terrabusi",
         precio: 115,
-        img: "../img/terrabusidulcedeleche.jpg",
+        img: "./img/terrabusidulcedeleche.jpg",
     },
     
 ];
