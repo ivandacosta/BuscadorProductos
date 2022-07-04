@@ -1,6 +1,7 @@
 body{
     background-color: rgb(245, 245, 245);
 }
+
 .thecard{
     display: flex;
     .card{
@@ -62,4 +63,9 @@ body{
     li{
         list-style-type: none;
     }
+}
+
+.productos{
+    padding: 30px;
+    margin: auto 600px;
 }
